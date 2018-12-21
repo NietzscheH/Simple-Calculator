@@ -1,3 +1,11 @@
+12/20/2018 v0.3
+----------------------------------------------------------------------------
+Updated:
+-Combined two Python files into one.
+
+Unsolved:
+-None. I think I won't do any further update on this project after that.
+
 12/15/2018 v0.2
 ----------------------------------------------------------------------------
 Updated:
